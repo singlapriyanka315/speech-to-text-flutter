@@ -1,4 +1,4 @@
-# voice_command_speech_recognition
+# speech-to-text-flutter
 
 A new Flutter project.
 
